@@ -8,8 +8,5 @@ Enter "help" below or click "Help" above for more information.
 >>> multiplication = number1*number2
 >>> 
 >>> print(f"addition of {number1} and {number2} is {addition}")
-addition of 10 and 5 is 15
 >>> print(f"subtraction of {number1} and {number2} is {subtraction}")
-subtraction of 10 and 5 is 5
 >>> print(f"multiplication of {number1} and {number2} is {multiplication}")
-multiplication of 10 and 5 is 50

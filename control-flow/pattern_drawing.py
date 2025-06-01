@@ -1,7 +1,7 @@
 # pattern_drawing.py
 
 while True:
-    size = int(input("Enter the size of the pattern (positive integer): "))
+    size = int(input("Enter the size of the pattern: "))
     if size > 0:
         def draw_square_pattern(size):
             for i in range(size):
